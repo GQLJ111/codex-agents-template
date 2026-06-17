@@ -1,5 +1,7 @@
 # Codex AGENTS.md Template
 
+🌏 中文 | [English](README_EN.md)
+
 一个面向中文用户的 Codex `AGENTS.md` 模板，用来约束 Codex 在项目中的沟通方式、工作方法、代码修改边界、调试流程、验证标准和高风险操作处理方式。
 
 这个模板默认偏向 **中文沟通、Windows 环境和 Python 项目**，但并不强绑定这些技术栈。你可以根据自己的操作系统、主要语言、项目类型和团队规范修改对应章节。
@@ -77,6 +79,7 @@ Copy-Item -LiteralPath ".\AGENTS.md" -Destination "D:\your-project\AGENTS.md" -F
 .
 ├── AGENTS.md
 ├── README.md
+├── README_EN.md
 ├── LICENSE
 └── .gitignore
 ```
