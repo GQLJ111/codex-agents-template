@@ -6,6 +6,8 @@
 
 这个模板默认偏向 **中文沟通、Windows 环境和 Python 项目**，但并不强绑定这些技术栈。你可以根据自己的操作系统、主要语言、项目类型和团队规范修改对应章节。
 
+本仓库以 Codex 的 `AGENTS.md` 为载体，但其中的工作流原则并不局限于 Codex。使用 Claude Code、Cursor、Cline、Roo Code、Gemini CLI 等 agent coding 工具的用户，也可以将这些规则迁移到自己的指令文件或项目规范中。
+
 ## 适合谁使用
 
 - 希望 Codex 默认用中文沟通的用户。

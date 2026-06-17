@@ -6,6 +6,8 @@ A Codex `AGENTS.md` template for Chinese-speaking users. It defines how Codex sh
 
 The template defaults to **Chinese communication, Windows-friendly commands, and Python-oriented development**, but it is not tied to those choices. You can adapt the relevant sections to your own operating system, programming languages, project type, and team conventions.
 
+This repository is built around Codex `AGENTS.md`, but the workflow principles are not limited to Codex. Users of Claude Code, Cursor, Cline, Roo Code, Gemini CLI, and similar agentic coding tools can adapt these rules to their own instruction files or project conventions.
+
 ## Who This Is For
 
 - Users who want Codex to communicate in Chinese by default.
